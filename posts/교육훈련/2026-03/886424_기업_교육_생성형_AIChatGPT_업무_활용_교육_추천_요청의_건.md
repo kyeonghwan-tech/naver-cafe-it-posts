@@ -7,7 +7,7 @@
 | 작성일 | 1772684478203 |
 | 원문 URL | [https://cafe.naver.com/ArticleRead.nhn?clubid=10733571&articleid=886424](https://cafe.naver.com/ArticleRead.nhn?clubid=10733571&articleid=886424) |
 | 탐지 키워드 | `AI, ChatGPT, GPT, 생성형 AI` |
-| 수집 일시 | 2026-03-20 10:23:05 |
+| 수집 일시 | 2026-03-20 11:08:04 |
 
 ---
 
